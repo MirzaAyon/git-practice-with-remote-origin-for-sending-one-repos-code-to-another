@@ -1,2 +1,5 @@
 # git-practice-with-remote-origin-for-sending-one-repos-code-to-another
-Here I have tried git bash
+1.Here I have tried git bash
+2.always try korbo index.html rakhte because different rakhle live link show korte problem hbe
+3.for delete repo - repo>settings>Danger Zone>change visibility
+4.
